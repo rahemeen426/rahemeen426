@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahemeen Khan</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
-<img align="right" alt= "coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Freactionpower.com%2Ftap-into-the-power-of-r-analytics-insights%2F&psig=AOvVaw2rWfX6YYkDGTUz3ZhXp2CY&ust=1679482990803000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCXoeju7P0CFQAAAAAdAAAAABAE">
+<img align="right" alt= "coding" width="400" src="https://reactionpower.com/wp-content/uploads/2020/09/machine-learning-big-data-analytics-and-predictive-logic.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahemeen-khan-94841a111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahemeen-khan-94841a111" height="30" width="40" /></a>
