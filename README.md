@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahemeen Khan</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
+- 📫 How to reach me **rahemeen426@gmail.com**
 <img align="right" alt= "coding" width="300" src="https://reactionpower.com/wp-content/uploads/2020/09/machine-learning-big-data-analytics-and-predictive-logic.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
