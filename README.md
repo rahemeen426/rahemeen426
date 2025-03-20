@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahemeen Khan</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist & AI Researcher</h3>
 
-👯 How to reach me: "rahemeen426@gmail.com"
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&lines=Data+Scientist+%7C+AI+Researcher+%7C+ML+Enthusiast+%7C+Educator" alt="Typing SVG">
+</p>
 
 <img align="right" alt="coding" width="400" src="https://reactionpower.com/wp-content/uploads/2020/09/machine-learning-big-data-analytics-and-predictive-logic.gif">
+
+### 📫 How to reach me: "rahemeen426@gmail.com"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,18 +36,6 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
@@ -53,8 +45,32 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahemeen426&show_icons=true&locale=en&layout=compact" alt="rahemeen426" /></p>
+---
 
+### 🏆 GitHub Stats
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahemeen426&show_icons=true&locale=en&layout=compact" alt="rahemeen426" />
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahemeen426&show_icons=true&locale=en" alt="rahemeen426" /></p>
+
+---
+
+### 🚀 Featured Projects
+- **Weather Impact on Stock Prices** 🌦️📈
+- **Flight Delay Prediction Using AI** ✈️🔍
+- **Road Accident Data Analysis** 🚗💥
+
+---
+
+### ⚡ Fun Fact
+"The best way to predict the future is to create it." - Alan Kay
+
+---
+
+🔗 **Let's Connect!** 
+[LinkedIn](https://linkedin.com/in/rahemeen-khan-94841a111) | [GitHub](https://github.com/rahemeen426)
