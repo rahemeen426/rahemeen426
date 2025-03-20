@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&lines=Data+Scientist+%7C+AI+Researcher+%7C+ML+Enthusiast+%7C+Educator" alt="Typing SVG">
 </p>
 
-<img align="right" alt="data-science" width="400" src="https://camo.githubusercontent.com/317d44e4d5c79f6fa1ebd0dbeeb6f53c3cc57e6b9a8d3c69c8431e20d57f7fb7/68747470733a2f2f63646e2e627573696e657373696e73696465722e636f6d2f63646e2d6769662f6e657772656c65617365732f312f646174615f616e616c79746963732e676966">
-
 ### 📫 How to reach me: "rahemeen426@gmail.com"
 
 <h3 align="left">Connect with me:</h3>
