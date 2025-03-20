@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&lines=Data+Scientist+%7C+AI+Researcher+%7C+ML+Enthusiast+%7C+Educator" alt="Typing SVG">
 </p>
 
-<img align="right" alt="coding" width="400" src="https://reactionpower.com/wp-content/uploads/2020/09/machine-learning-big-data-analytics-and-predictive-logic.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*dD9w21wGzT0YwJrD6i4y9Q.gif">
 
 ### 📫 How to reach me: "rahemeen426@gmail.com"
 
