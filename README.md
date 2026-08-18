@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahemeen Mukhtiar</h1>
-<h3 align="center">A passionate Data Scientist & AI Researcher</h3>
+<h3 align="center">A passionate Machine Learning Engineer | AI / NLP Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&lines=Data+Scientist+%7C+AI+Researcher+%7C+ML+Enthusiast+%7C+Educator" alt="Typing SVG">
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahemeen-khan-94841a111" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahemeen-khan-94841a111" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahemeen-mukhtiar-a520623b2/" height="30" width="40" />
 </a>
 </p>
 
@@ -48,22 +48,6 @@
 </a>
 </p>
 
----
-
-### 🏆 GitHub Stats
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahemeen426&show_icons=true&locale=en&layout=compact" alt="rahemeen426" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahemeen426&show_icons=true&locale=en" alt="rahemeen426" /></p>
-
----
-
-### 🚀 Featured Projects
-- **Weather Impact on Stock Prices** 🌦️📈
-- **Flight Delay Prediction Using AI** ✈️🔍
-- **Road Accident Data Analysis** 🚗💥
-
----
 
 ### ⚡ Fun Fact
 "The best way to predict the future is to create it." - Alan Kay
