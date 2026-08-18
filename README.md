@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rahemeen Khan</h1>
+<h1 align="center">Hi 👋, I'm Rahemeen Mukhtiar</h1>
 <h3 align="center">A passionate Data Scientist & AI Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&lines=Data+Scientist+%7C+AI+Researcher+%7C+ML+Enthusiast+%7C+Educator" alt="Typing SVG">
 </p>
 
-### 📫 How to reach me: "rahemeen426@gmail.com"
+### 📫 How to reach me: "rahemeen.ahmed22@gmail.com"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,4 +71,4 @@
 ---
 
 🔗 **Let's Connect!** 
-[LinkedIn](https://linkedin.com/in/rahemeen-khan-94841a111) | [GitHub](https://github.com/rahemeen426)
+[LinkedIn](https://www.linkedin.com/in/rahemeen-mukhtiar-a520623b2) | [GitHub](https://github.com/rahemeen426)
