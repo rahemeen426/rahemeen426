@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahemeen Mukhtiar</h1>
 <h3 align="center">A passionate Machine Learning Engineer | AI / NLP Engineer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&lines=Data+Scientist+%7C+AI+Researcher+%7C+ML+Enthusiast+%7C+Educator" alt="Typing SVG">
-</p>
 
 ### 📫 How to reach me: "rahemeen.ahmed22@gmail.com"
 
@@ -55,4 +52,4 @@
 ---
 
 🔗 **Let's Connect!** 
-[LinkedIn](https://www.linkedin.com/in/rahemeen-mukhtiar-a520623b2) | [GitHub](https://github.com/rahemeen426)
+[LinkedIn](https://www.linkedin.com/in/rahemeen-mukhtiar-a520623b2) | [GitHub](https://github.com/rahemeen426) | [Gmail](rahemeen.ahmed22@gmail.com)
