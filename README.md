@@ -52,4 +52,4 @@
 ---
 
 🔗 **Let's Connect!** 
-[LinkedIn](https://www.linkedin.com/in/rahemeen-mukhtiar-a520623b2) | [GitHub](https://github.com/rahemeen426) | [Gmail](rahemeen.ahmed22@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rahemeen-mukhtiar-a520623b2) | [GitHub](https://github.com/rahemeen426) | [Gmail] rahemeen.ahmed22@gmail.com
