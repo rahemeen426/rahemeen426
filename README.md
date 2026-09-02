@@ -11,19 +11,19 @@
 
 ## 🚀 About Me
 
-| ![](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif) | 👩‍💻 **ML / AI Engineer, NLP-focused**<br><br>I work across the **full ML stack** — data engineering, modeling, MLOps, and explainability — with a growing specialization in **LLMs and NLP**.<br><br>**Current:** MS in Data Science @ Università degli Studi di Milano-Bicocca (full merit scholarship)<br>**Research:** Thesis + research internship on **black-box LLM hallucination detection**, under Prof. Viviani<br>**Also building:** RAAS Hussain Consultancy, an Oslo-based IT/tech consultancy — website, branding, and lead-gen tooling<br>**Background:** ML Engineer roles across Pakistan/UAE, three IEEE publications, academic teaching experience<br><br>I like turning ambiguous, half-scoped problems into ML systems that actually ship. |
+| ![](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif) | 👩‍💻 **ML / AI Engineer, NLP-focused**<br><br>I work across the **full ML stack** — data engineering, modeling, MLOps, and explainability — with a growing specialization in **LLMs and NLP**.<br><br>**Current:** MS in Data Science @ Università degli Studi di Milano-Bicocca (full merit scholarship)<br>**Research:** Thesis + research internship on **black-box LLM hallucination detection**, under Prof. Viviani<br>**Background:** ML Engineer roles across Pakistan/UAE, three IEEE publications, academic teaching experience<br><br>I like turning ambiguous, half-scoped problems into ML systems that actually ship. |
 |---|---|
 
 ### 🎯 What I Do
-
-**🔍 LLM Evaluation & Trust**
-Hallucination detection, groundedness checks, RAG evaluation
 
 **⚡ Applied GenAI**
 RAG pipelines, agentic workflows, LLM-powered tools
 
 **📊 ML for Business Decisions**
 MMM, churn, CLV, and sentiment pipelines with real explainability
+
+**🔍 LLM Evaluation & Trust**
+Hallucination detection, groundedness checks, RAG evaluation
 
 ## 🛠️ Tech Stack
 
