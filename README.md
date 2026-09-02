@@ -16,14 +16,14 @@
 
 ### 🎯 What I Do
 
-**🔍 LLM Evaluation & Trust**
-Hallucination detection, groundedness checks, RAG evaluation
-
 **⚡ Applied GenAI**
 RAG pipelines, agentic workflows, LLM-powered tools
 
 **📊 ML for Business Decisions**
 MMM, churn, CLV, and sentiment pipelines with real explainability
+
+**🔍 LLM Evaluation & Trust**
+Hallucination detection, groundedness checks, RAG evaluation
 
 ## 🛠️ Tech Stack
 
